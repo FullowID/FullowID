@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fullowid&show_icons=true&theme=react&line_height=40&locale=en" alt="fullowid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullowid&theme=react&line_height=40" alt="fullowid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullowid&theme=react" alt="fullowid" /></p>
 
