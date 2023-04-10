@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fullowid&theme=react&line_height=40&hide=css" alt="fullowid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fullowid&show_icons=true&locale=en" alt="fullowid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fullowid&show_icons=true&theme=react&line_height=40&locale=en" alt="fullowid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullowid&" alt="fullowid" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullowid&theme=react&line_height=40" alt="fullowid" /></p>
 
