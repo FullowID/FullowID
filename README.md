@@ -1,5 +1,5 @@
 <h1 align="center">I am Rin</h1>
-<h3 align="center">Aku Mah... Masih Pemula</h3>
+<h3 align="center">Game Dev Enthusiast</h3>
 
 <p align="left">
 </p>
